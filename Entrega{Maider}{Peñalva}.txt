@@ -1,0 +1,10 @@
+Nombre: Maider
+Apellidos: Peñalva Gomez
+Enlace a GitHub: https://github.com/Maider777/Ejercicio3.git
+Comandos: echo "1DAW3">>README.md
+git init
+notepad .gitignore
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/Maider777/Ejercicio3.git
+git push -u origin master
